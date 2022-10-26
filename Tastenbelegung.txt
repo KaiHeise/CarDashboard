@@ -1,0 +1,13 @@
+Tastenbelegung
+
+<S>		Start /Stop (des Motors)
+<up>		Gas geben
+<down>	Bremsen
+
+<Strg> <1>	1. Gang
+...
+<Strg> <5>	5.Gang
+<Strg> <0>	Leerlauf, kein Gang	
+<Strg> <R>	Rückwärtsgang
+
+

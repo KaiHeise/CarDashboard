@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bkgr_001_ab_728.png</file>
+        <file>bkgr_001_ab5.png</file>
+        <file>RueckBild_02.jpg</file>
+        <file>km_Stand.txt</file>
+    </qresource>
+</RCC>
